@@ -1,0 +1,17 @@
+# Credenciais locais
+config.txt
+.env
+.env.*
+
+# Dados e backups
+backups/
+*.sql
+*.sql.gz
+*.sql.zip
+*.log
+
+# Arquivos locais de editores
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
