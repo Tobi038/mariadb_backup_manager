@@ -1,0 +1,7 @@
+# Copie este arquivo para config.txt e ajuste os valores.
+MARIADB_BIN=C:\Program Files\MariaDB 10.5\bin
+DB_HOST=127.0.0.1
+DB_PORT=3306
+DB_USER=backup_user
+DB_PASSWORD=COLOQUE_SUA_SENHA_AQUI
+BACKUP_DIR=backups
